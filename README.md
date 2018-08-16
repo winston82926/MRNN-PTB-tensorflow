@@ -19,28 +19,28 @@ Markov recurrent neural network (MRNN) explore the stochastic transitions in rec
 ## Result
 - 2D visualization of hidden state
 
-|<img src="Others/tsne_LSTM.png" width="80%">|
+|<img src="Others/tsne_LSTM.png" width="800">|
 |:--------------------------------------------:|
 |LSTM (K=1)|
 
 
-|<img src="Others/tsne_K=2.png" width="80%">|<img src="Others/stat_K=2.png" width="800/">
-|:--------------------------------------------:|
-|MRNN K=2|
+<img src="Others/tsne_K=2.png" width="400">|<img src="Others/stat_K=2.png" width="400/">
+:--------------------------------------------:|:----------------------------------------:
+MRNN K=2|Statistic of states
 
 
-|<img src="Others/tsne_K=4.png" width="80%">|<img src="Others/stat_K=4.png" width="800/">
-|:--------------------------------------------:|
-|MRNN K=4|
+<img src="Others/tsne_K=4.png" width="400">|<img src="Others/stat_K=4.png" width="400/">
+:--------------------------------------------:|:----------------------------------------:
+MRNN K=4|Statistic of states
 
-|<img src="Others/tsne_K=8.png" width="80%">|<img src="Others/stat_K=8.png" width="800/">
-|:--------------------------------------------:|
-|MRNN K=8|
+<img src="Others/tsne_K=8.png" width="400">|<img src="Others/stat_K=8.png" width="400/">
+:--------------------------------------------:|:----------------------------------------:
+MRNN K=8|Statistic of states
 
-|<img src="Others/tsne_K=12.png" width="80%">|<img src="Others/stat_K=12.png" width="800/">
-|:--------------------------------------------:|
-|MRNN K=12|
+<img src="Others/tsne_K=12.png" width="400">|<img src="Others/stat_K=12.png" width="400/">
+:--------------------------------------------:|:----------------------------------------:
+MRNN K=12|Statistic of states
 
-|<img src="Others/tsne_K=16.png" width="80%">|<img src="Others/stat_K=16.png" width="800/">
-|:--------------------------------------------:|
-|MRNN K=16|
+<img src="Others/tsne_K=16.png" width="400">|<img src="Others/stat_K=16.png" width="400/">
+:--------------------------------------------:|:----------------------------------------:
+MRNN K=16|Statistic of states
